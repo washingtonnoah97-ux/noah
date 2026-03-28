@@ -1,0 +1,5 @@
+{
+  "name": "Night Hub Script Compiler",
+  "description": "A minimalist tool to convert script URLs from GitHub, Pastebin, Pastefy, and Luarmor into functional Roblox loadstring commands.",
+  "requestFramePermissions": []
+}
